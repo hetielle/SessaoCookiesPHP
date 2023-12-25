@@ -13,4 +13,3 @@ Projeto básico desenvolvido para a matéria de Linguagem de Programaçõa 2 em 
 * PHP
 * HTML
 * CSS
-* MySQL
